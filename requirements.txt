@@ -11,3 +11,7 @@ streamlit==1.29.0
 streamlit_option_menu==0.3.6
 transformers==4.36.2
 webcolors==1.13
+protobuf==4.25.1
+python-dotenv==1.0.0
+streamlit==1.28.1
+google-generativeai==0.2.2
